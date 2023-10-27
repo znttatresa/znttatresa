@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zanetta Teresa</h1>
-<h3 align="center">A Sabahan who are taking Graphic and Multimedia Software in Universiti Teknologi Malaysia</h3>
+<h3 align="center">A Sabahan who are taking Graphic and Multimedia Software in Universiti Teknologi Malaysia :) </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
