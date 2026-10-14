@@ -33,5 +33,5 @@ See more details and screenshots on my portfolio: **[YOUR-PORTFOLIO-LINK](https:
 ## 📫 Let's Connect
 
 - 🌐 Portfolio: [YOUR-PORTFOLIO-LINK](https://YOUR-PORTFOLIO-LINK)
-- 💼 LinkedIn: [YOUR-LINKEDIN-LINK](https://www.linkedin.com/in/YOUR-LINKEDIN)
-- ✉️ Email: YOUR-EMAIL@example.com
+- 💼 LinkedIn: [YOUR-LINKEDIN-LINK](https://www.linkedin.com/in/zanetta-teresa)
+- ✉️ Email: znttatresa@gmail.com
