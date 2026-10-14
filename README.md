@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zanetta Teresa</h1>
 
-<h3 align="center">Undergraduate student at Universiti Teknologi Malaysia</h3>
+<h3 align="center">Will be graduating at Universiti Teknologi Malaysia</h3>
 
 <p align="center">
   I enjoy building mobile and web applications that solve practical problems.
@@ -22,7 +22,7 @@
 | **BrightBite** | Android app that analyses images of a cat's teeth and returns a predicted condition with a confidence score, plus pet profiles and analysis history | Java, Android Studio, Python, Firebase, MobileNetV2 |
 | **Smart Course Registration System** | Web system for course and section enrollment, waitlist management and academic staff approval workflows | Laravel, PHP, MySQL |
 
-See more details and screenshots on my portfolio: **[YOUR-PORTFOLIO-LINK](https://YOUR-PORTFOLIO-LINK)**
+See more details and screenshots on my portfolio: **https://zanetta-teresa-damian.vercel.app/**
 
 ## 💻 Languages and Tools
 
@@ -32,6 +32,6 @@ See more details and screenshots on my portfolio: **[YOUR-PORTFOLIO-LINK](https:
 
 ## 📫 Let's Connect
 
-- 🌐 Portfolio: [YOUR-PORTFOLIO-LINK](https://YOUR-PORTFOLIO-LINK)
-- 💼 LinkedIn: [YOUR-LINKEDIN-LINK](https://www.linkedin.com/in/zanetta-teresa)
+- 🌐 Portfolio: https://zanetta-teresa-damian.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/zanetta-teresa
 - ✉️ Email: znttatresa@gmail.com
